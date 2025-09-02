@@ -35,7 +35,7 @@ Jupyter Notebook
 
 **1. Clone this repository:**
 
-git clone https: https://github.com/rohanreddy7989/Slooze-take-home-challenge-data-science-analytics
+git clone https://github.com/rohanreddy7989/Slooze-take-home-challenge-data-science-analytics
 
 cd inventory-analysis
 
